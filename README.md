@@ -106,36 +106,13 @@ predict.py
 ---
 
 ## Results
+ren images\ensemble_confusion_matrix.png.png ensemble_confusion_matrix.png
 
-### Ensemble Model — Confusion Matrix
+ren images\lightgbm_confusion_matrix.png.png lightgbm_confusion_matrix.png
 
-![Ensemble Confusion Matrix](images/ensemble_confusion_matrix.png)
+ren images\model_comparison.png.png model_comparison.png
 
-> True Negatives: 12,488 &nbsp;|&nbsp; False Positives: 47 &nbsp;|&nbsp; False Negatives: 764 &nbsp;|&nbsp; True Positives: 403
-
----
-
-### LightGBM — Confusion Matrix
-
-![LightGBM Confusion Matrix](images/lightgbm_confusion_matrix.png)
-
-> True Negatives: 12,484 &nbsp;|&nbsp; False Positives: 51 &nbsp;|&nbsp; False Negatives: 759 &nbsp;|&nbsp; True Positives: 408
-
----
-
-### Model Accuracy Comparison
-
-![Model Comparison](images/model_comparison.png)
-
----
-
-### Sample Prediction Output
-
-![Prediction Output](images/prediction_output.png)
-
-> **Best Model:** LGBMClassifier &nbsp;|&nbsp; **Best Accuracy:** 94.09% &nbsp;|&nbsp; **Promotion Probability:** 97.31%
-
----
+ren images\prediction_output.png.png prediction_output.png
 
 ## Getting Started
 
