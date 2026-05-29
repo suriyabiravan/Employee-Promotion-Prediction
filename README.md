@@ -105,22 +105,7 @@ predict.py
 
 ---
 
-## Results
-### Ensemble Model — Confusion Matrix
 
-![Ensemble Confusion Matrix](images/ensemble_confusion_matrix.png)
-
-### LightGBM — Confusion Matrix
-
-![LightGBM Confusion Matrix](images/lightgbm_confusion_matrix.png)
-
-### Model Accuracy Comparison
-
-![Model Comparison](images/model_comparison.png)
-
-### Sample Prediction Output
-
-![Prediction Output](images/prediction_output.png)
 
 ## Getting Started
 
