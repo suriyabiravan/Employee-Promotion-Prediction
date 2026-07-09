@@ -152,6 +152,7 @@ This will train all 6 models, print metrics, plot confusion matrices, display a 
 
 **Dharshan**
 Built as a portfolio project demonstrating a complete, production-style ML pipeline on a real-world HR dataset.
+Updated by collaborator Suriya on 09-07-2026
 
 ---
 
